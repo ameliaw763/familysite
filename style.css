@@ -1,0 +1,41 @@
+h1 {color: purple; 
+	font-family:cursive; 
+	font-size: 300%;
+	text-align:center;}
+h6 {color:crimson;
+    font-family: cursive;
+    font-size: 300%;}
+p {color:#ff0080;
+	
+   font-family: 'Grenze Gotisch', cursive;
+	font-size: 300%}
+h2 {color:indigo  ;
+	font-size:300%;
+	font-family:cursive; }
+body {background-color:lavender;}
+
+ul li {color:navy;
+	font-family:cursive;
+	font-size: 150%;
+	margin:100px;}
+.hoverlink:link{color:navy;text-decoration: none;}
+.hoverlink:visited{color:navy;text-decoration: none;}
+.hoverlink:hover{text-decoration: underline;}	
+
+.colorpictures{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width:65%;}	
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
