@@ -14,7 +14,7 @@ h2 {color:indigo  ;
 	font-family:cursive; }
 body {background-color: lavender;}
 
-ul li {color:navy;
+.booklist ul li {color:navy;
 	font-family:cursive;
 	font-size: 150%;
 	margin:100px;}
@@ -41,4 +41,21 @@ td, th {
   border: 1px solid navy;
   text-align: left;
   padding: 8px;
+}
+
+.amelias-menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.amelias-menu li {
+  float: left;
+}
+
+.amelias-menu li a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
 }
