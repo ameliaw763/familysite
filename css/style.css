@@ -44,7 +44,7 @@ td, th {
 }
 
 
-.menu ul li {
+.menu li {
  float: left;
  list-style-type: none;
  margin-right: 1em; 
