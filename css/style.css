@@ -14,7 +14,7 @@ h2 {color:indigo  ;
 	font-family:cursive; }
 body {background-color: lavender;}
 
-.booklist ul li {color:navy;
+.booklist li {color:navy;
 	font-family:cursive;
 	font-size: 150%;
 	margin:100px;}
