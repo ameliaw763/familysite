@@ -14,7 +14,7 @@ h2 {color:indigo  ;
 	font-family:cursive; }
 body {background-color: lavender;}
 
-.booklist ul li {color:navy;
+ul li {color:navy;
 	font-family:cursive;
 	font-size: 150%;
 	margin:100px;}
@@ -41,45 +41,4 @@ td, th {
   border: 1px solid navy;
   text-align: left;
   padding: 8px;
-}
-
-
-.amelias-menu ul {
- float: left;
- list-style-type: none;
- margin-right: 1em; 
-}
- 
-.amelias-menu ul li a {
- color: #544738;
- text-decoration: none;
- float: left;
- font-size: 25px;
- padding: 12px;
-}
- 
-.left a:hover {
- 
- /*Transition*/ 
- -webkit-transition:All .5s ease;
- -moz-transition:All .5s ease;
- -o-transition:All .5s ease;
- 
- /*Transform*/ 
- -webkit-transform: rotate(-10deg) scale(1.2);
- -moz-transform: rotate(-10deg) scale(1.2);
- -o-transform: rotate(-10deg) scale(1.2);
-}
- 
-.right a:hover {
- 
- /*Transition*/ 
- -webkit-transition:All .5s ease;
- -moz-transition:All .5s ease;
- -o-transition:All .5s ease;
- 
- /*Transform*/ 
- -webkit-transform: rotate(10deg) scale(1.2);
- -moz-transform: rotate(10deg) scale(1.2);
- -o-transform: rotate(10deg) scale(1.2);
 }
