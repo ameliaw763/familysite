@@ -32,3 +32,19 @@ ul li h4{
 	margin-bottom: 20px;
 	color: silver;
 }
+.amelias-menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.amelias-menu li {
+  float: left;
+}
+
+.amelias-menu li a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
