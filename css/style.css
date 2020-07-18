@@ -14,6 +14,13 @@ h2 {color:indigo  ;
 	font-family:cursive; }
 body {background-color: lavender;}
 
+
+.menu ul li {
+ float: left;
+ list-style-type: none;
+ margin-right: 1em; 
+}
+
 .booklist ul li {color:navy;
 	font-family:cursive;
 	font-size: 150%;
@@ -44,11 +51,6 @@ td, th {
 }
 
 
-.menu ul li {
- float: left;
- list-style-type: none;
- margin-right: 1em; 
-}
  
 .menu ul li a {
  color: #544738;
