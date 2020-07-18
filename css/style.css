@@ -12,7 +12,7 @@ p {color:#ff0080;
 h2 {color:indigo  ;
 	font-size:300%;
 	font-family:cursive; }
-body {background-color:lavender;}
+body {background-color: lavender;}
 
 ul li {color:navy;
 	font-family:cursive;
@@ -31,11 +31,14 @@ ul li {color:navy;
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
-  width: 50%;
+  width: 65%;
+  margin-right: auto;
+	margin-left: auto;
+	
 }
 
 td, th {
-  border: 1px solid #dddddd;
+  border: 1px solid navy;
   text-align: left;
   padding: 8px;
 }
