@@ -45,15 +45,15 @@ td, th {
 
 
 .menu ul li {
- float: left!important;
- list-style: none;
+ float: left;
+ list-style-type: none;
  margin-right: 1em; 
 }
  
 .menu li a {
  color: #544738;
  text-decoration: none;
- float: left!important;
+ float: left;
  font-size: 25px;
  padding: 12px;
 }
